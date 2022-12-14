@@ -24,6 +24,7 @@ public class Main {
                 case 2-> service.getAllCustomer();
                 case 3-> service.creatMarkets();
                 case 4-> service.getAllCustomer();
+                case 5-> service.findProduct();
 
             }
 

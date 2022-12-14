@@ -13,4 +13,6 @@ public enum Markets {
     ALI_BABA,
     BEREKE;
 
+    public void setBankCard(Integer mMoney) {
+    }
 }

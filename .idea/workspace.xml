@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e3a8541-ceb1-4054-9af9-dce686760ef3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classies/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classies/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/CustomerCervice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/CustomerServiceImplment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/Excdeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/Exeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/MarketImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/newException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/Impliment/newExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/MarketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Markets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Products.java" afterDir="false" />
+    <list default="true" id="6e3a8541-ceb1-4054-9af9-dce686760ef3" name="Changes" comment="Market project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classies/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classies/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/CustomerCervice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/CustomerCervice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/Impliment/CustomerServiceImplment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/Impliment/CustomerServiceImplment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/Impliment/MarketImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/Impliment/MarketImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Markets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Markets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Products.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670874298308</updated>
     </task>
+    <task id="LOCAL-00001" summary="Market project">
+      <created>1671018978859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671018978859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Market project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Market project" />
   </component>
 </project>

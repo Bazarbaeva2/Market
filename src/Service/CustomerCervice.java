@@ -1,6 +1,7 @@
 package Service;
 
 import Classies.Customer;
+import enums.Products;
 
 import java.util.List;
 import java.util.Map;
@@ -16,11 +17,10 @@ public interface CustomerCervice {
     String addProduct();
     String removeProduct();
     Map<String, Integer>getList();
-    Map<String, Integer>findProduct(String name);
+    Map<Products, Integer> findProduct(String name);
     String changeProfile();
 
 
-
-
+    void findProduct();
 }
 

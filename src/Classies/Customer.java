@@ -1,7 +1,10 @@
 package Classies;
 
 
+import enums.Products;
+
 import java.math.BigDecimal;
+import java.util.List;
 import java.util.Map;
 
 public class Customer {
@@ -83,5 +86,15 @@ public class Customer {
                 ", password='" + password + '\'' +
                 ", shoppingList=" + shoppingList +
                 '}';
+    }
+
+    public void setBankCard(Integer buyerMoney) {
+    }
+
+    public void setList(List<Products> list) {
+    }
+
+    public Integer getBankCard() {
+        return null;
     }
 }

@@ -40,11 +40,12 @@ public enum Products {
     }
 
     public int getPrice() {
+
         return price;
     }
 
     public void setPrice(int price) {
-        this.price = price;
+        this. price = price;
     }
 
     public int getAmount() {
@@ -61,5 +62,9 @@ public enum Products {
                 "price=" + price +
                 ", amount=" + amount +
                 '}';
+    }
+
+    public Integer getSum() {
+        return 0;
     }
 }
